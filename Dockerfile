@@ -1,4 +1,4 @@
-FROM hokiegeek/scala-sbt:latest
+FROM hokiegeek/scala-sbt:0.13.12-2.11.8
 
 RUN mkdir ~/.ammonite
 ADD predef.scala ~/.ammonite/predef.scala
