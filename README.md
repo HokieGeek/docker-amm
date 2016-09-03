@@ -1,2 +1,2 @@
 # docker-amm
-Wrapper over amm docker image with a directory to mount to
+Ammonite REPL using binaries from github.com
